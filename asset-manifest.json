@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rpg/static/css/main.f180a9de.css",
-    "main.js": "/rpg/static/js/main.d8714f7e.js",
+    "main.css": "/rpg/static/css/main.815ee74c.css",
+    "main.js": "/rpg/static/js/main.00a0c05c.js",
     "static/js/787.989259b3.chunk.js": "/rpg/static/js/787.989259b3.chunk.js",
     "static/media/town.png": "/rpg/static/media/town.49d1e8e78408beeffac1.png",
     "static/media/battleBackground.png": "/rpg/static/media/battleBackground.80b51c219ab89fdec342.png",
     "static/media/foreground.png": "/rpg/static/media/foreground.7a10c7e73ab76be54be9.png",
     "index.html": "/rpg/index.html",
-    "main.f180a9de.css.map": "/rpg/static/css/main.f180a9de.css.map",
-    "main.d8714f7e.js.map": "/rpg/static/js/main.d8714f7e.js.map",
+    "main.815ee74c.css.map": "/rpg/static/css/main.815ee74c.css.map",
+    "main.00a0c05c.js.map": "/rpg/static/js/main.00a0c05c.js.map",
     "787.989259b3.chunk.js.map": "/rpg/static/js/787.989259b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f180a9de.css",
-    "static/js/main.d8714f7e.js"
+    "static/css/main.815ee74c.css",
+    "static/js/main.00a0c05c.js"
   ]
 }
